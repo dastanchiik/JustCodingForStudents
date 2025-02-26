@@ -6,8 +6,9 @@ public class Main {
     }
     public static int method(){
         int a = 15;
+        System.out.println("Umutay" );
+        System.out.println("Sayan");
         System.out.println("Саян");
         return a;
-
     }
 }
