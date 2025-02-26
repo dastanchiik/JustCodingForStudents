@@ -9,6 +9,8 @@ public class Main {
         int a = 15;
         System.out.println("Sayan");
         System.out.println("Nurdolot");
+        System.out.println("Umutay" );
+        System.out.println("Sayan");
         System.out.println("Саян");
         return a;
 
