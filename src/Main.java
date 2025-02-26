@@ -10,8 +10,25 @@ public class Main {
         String b = "Rayana";
         System.out.println(b);
         System.out.println("Sayan");
+        System.out.println("Sayan");
+        System.out.println("Nurdolot");
+        System.out.println("Umutay" );
+        System.out.println("Sayan");
         System.out.println("Саян");
         return a;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
